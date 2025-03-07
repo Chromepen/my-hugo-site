@@ -3,3 +3,5 @@ languageCode = "en-us"
 theme = "ananke"
 title = "My Hugo Site"
 draft = false
+buildDrafts = true
+

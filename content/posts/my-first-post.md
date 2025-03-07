@@ -1,7 +1,7 @@
 +++
 date = '2025-03-06T20:08:04-06:00'
 draft = true
-title = 'My First Post'
+title = ''
 +++
 
 # *JOFY JACOB*
