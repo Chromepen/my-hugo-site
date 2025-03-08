@@ -1,7 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "https://<your-username>.github.io/<repo-name>/"
+publishDir = "docs"
 languageCode = "en-us"
-theme = "ananke"
-title = "My Hugo Site"
+title = "Resume"
 draft = false
 buildDrafts = true
-
