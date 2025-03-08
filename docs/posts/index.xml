@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Resume</title>
-    <link>http://localhost:1313/%3Crepo-name%3E/posts/</link>
+    <link>http://localhost:1313/my-hugo-site/posts/</link>
     <description>Recent content in Posts on Resume</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 06 Mar 2025 20:08:04 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/%3Crepo-name%3E/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 06 Mar 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/my-hugo-site/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title></title>
-      <link>http://localhost:1313/%3Crepo-name%3E/posts/my-first-post/</link>
-      <pubDate>Thu, 06 Mar 2025 20:08:04 -0600</pubDate>
-      <guid>http://localhost:1313/%3Crepo-name%3E/posts/my-first-post/</guid>
-      <description>&lt;h1 id=&#34;jofy-jacob&#34;&gt;&lt;em&gt;JOFY JACOB&lt;/em&gt;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Address:&lt;/em&gt; 592 Dalhousie Drive, Winnipeg, Manitoba, R3T 3Z5&lt;br&gt;&#xA;&lt;em&gt;Phone:&lt;/em&gt; (+1) 437 986 6247&lt;br&gt;&#xA;&lt;em&gt;Email:&lt;/em&gt; &lt;a href=&#34;mailto:jofyjacob123@gmail.com&#34;&gt;jofyjacob123@gmail.com&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;objective&#34;&gt;&lt;em&gt;Objective&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Seeking a &lt;em&gt;part-time Sales Associate&lt;/em&gt; position at &lt;em&gt;Best Buy&lt;/em&gt;, leveraging strong communication skills, customer service experience, and a background in Computer Science to help drive exceptional customer experiences.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;professional-summary&#34;&gt;&lt;em&gt;Professional Summary&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Performance-driven, result-oriented University of Manitoba B.Sc. Computer Science student with proven abilities in leadership, problem-solving, and team collaboration. Skilled in delivering excellent service in fast-paced environments. Looking to combine my technical knowledge and customer-facing experience to add value and contribute to high-quality service.&lt;/p&gt;</description>
+      <title>My Resume</title>
+      <link>http://localhost:1313/my-hugo-site/posts/resume/</link>
+      <pubDate>Thu, 06 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/my-hugo-site/posts/resume/</guid>
+      <description></description>
     </item>
   </channel>
 </rss>

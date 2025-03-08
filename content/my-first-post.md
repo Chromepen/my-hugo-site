@@ -1,8 +1,12 @@
-+++
-date = '2025-03-06T20:08:04-06:00'
-draft = true
-title = ''
-+++
+---
+title: "My Resume"
+date: 2025-03-06
+draft: false
+slug: "resume"
+type: "page"
+---
+
+
 
 # *JOFY JACOB*
 *Address:* 592 Dalhousie Drive, Winnipeg, Manitoba, R3T 3Z5  

@@ -1,6 +1,11 @@
-baseURL = "https://<your-username>.github.io/<repo-name>/"
+baseURL = "https://Chrompen.github.io/my-hugo-site/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "Resume"
 draft = false
 buildDrafts = true
+summaryLength = 0
+theme = "ananke"
+
+[permalinks]
+  resume = "/resume/"
